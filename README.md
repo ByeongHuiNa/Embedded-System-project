@@ -12,11 +12,13 @@ PIR센서 기반 야생동물 감시 시스템
  - LED 모듈 :  PIR센서가 감지되면 경고등(빨간색)을 구현하려 했으나 구현하지 못하       였음.
  - CoAP 서버 :  CoAP 통신사용
  - CoAP클라이언트 :  PIR센서 모니터링
-![image](https://user-images.githubusercontent.com/87258864/147630451-a51bbd68-ea6e-4c9f-9519-53096401d453.png)
 
-### [D] 프로젝트 개발 결과물 소개
-다이어그램처럼 게임을 시작하면 메뉴화면이 나오게 되고 각 게임을 선택하면 게임화면이로 넘어가게 됩니다. 게임화면에서 ‘q’를 누르면 다시 메뉴화면이 나오고 exit를 선택하면 프로그램이 종료합니다
- ![image](https://user-images.githubusercontent.com/86523413/144700101-1cc797fd-72ae-4f89-bfae-863b1abd1a9d.png)
+### [D] 하드웨어 구현
+PIR; Ground, GPIO 0, 5V
+LCD DISPLAY: Ground, 5V, I2C SDA(GPIO 8), I2C SCL(GPIO 9)
+LED : GROUND, Red(GPIO 2)
+![image](https:![image](https://user-images.githubusercontent.com/87258864/147630515-dd4e19e2-25da-4fe0-962d-7af2c23b145e.png)
+//user-images.githubusercontent.com/87258864/147630512-685c42fd-1c50-4ac6-9312-9b42000b965a.png)
 
 
 ### [E] 개발 결과물을 사용하는 방법(구동화면 스크린 샷 첨부)
