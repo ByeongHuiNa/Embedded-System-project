@@ -20,13 +20,3 @@ PIR센서 기반 야생동물 감시 시스템
 ![image](https:![image](https://user-images.githubusercontent.com/87258864/147630515-dd4e19e2-25da-4fe0-962d-7af2c23b145e.png)
 
 
-
-### [E] 개발 결과물을 사용하는 방법(구동화면 스크린 샷 첨부)
-
-메뉴화면에서 방향키로 하이라이트부분을 이동하고 엔터키를 사용해서 선택을 합니다.
-게임화면에서는 ‘q’버튼을 눌러 다시 메뉴 화면으로 돌아갈 수 있습니다.
- 
- ![image](https://user-images.githubusercontent.com/86523413/144700104-4328b239-d889-4562-bac7-b45e024fe7b1.png)
-
-### [F] 개발 결과물의 필요성 및 활용방안
-짧은 여가시간동안 다양한 게임을 즐길 수 있다.
