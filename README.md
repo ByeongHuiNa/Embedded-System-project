@@ -18,7 +18,7 @@ PIR; Ground, GPIO 0, 5V
 LCD DISPLAY: Ground, 5V, I2C SDA(GPIO 8), I2C SCL(GPIO 9)
 LED : GROUND, Red(GPIO 2)
 ![image](https:![image](https://user-images.githubusercontent.com/87258864/147630515-dd4e19e2-25da-4fe0-962d-7af2c23b145e.png)
-//user-images.githubusercontent.com/87258864/147630512-685c42fd-1c50-4ac6-9312-9b42000b965a.png)
+
 
 
 ### [E] 개발 결과물을 사용하는 방법(구동화면 스크린 샷 첨부)
